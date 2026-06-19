@@ -1,6 +1,12 @@
 # 🏋️ Sistema de Gestão de Academia Universitária
 
 Sistema em Python para gestão de associados, planos, aulas coletivas, frequência e pagamentos de uma academia universitária.
+👥 Grupo 4
+Integrantes:
+
+Cauã William
+João Ricardo
+Cauã Alves
 
 > Projeto Semestral — Engenharia de Software | UNIT-PE | 2026.1  
 > Prof. Dr. David Barrientos
