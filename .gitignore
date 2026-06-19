@@ -1,0 +1,4 @@
+data/dados.json
+__pycache__/
+*.pyc
+.vscode/
