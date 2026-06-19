@@ -1,0 +1,37 @@
+{
+  "associados": {
+    "1": {
+      "nome": "caua william",
+      "cpf": "12754918477",
+      "email": "cwsf2018@gmail.com",
+      "plano": "Mensal",
+      "plano_key": "1",
+      "inicio": "2026-06-19",
+      "vencimento": "2026-07-19",
+      "status": "ativo",
+      "congelado_em": null,
+      "dias_congelados": 0
+    }
+  },
+  "aulas": [],
+  "agendamentos": [],
+  "pagamentos": [
+    {
+      "id_associado": "1",
+      "data": "2026-06-19",
+      "desc": "Adesão — Plano Mensal",
+      "valor": 120.0,
+      "tipo": "entrada"
+    }
+  ],
+  "frequencias": [],
+  "instrutores": {
+    "1": {
+      "nome": "junior",
+      "especialidade": "yoga"
+    }
+  },
+  "proximo_id": 2,
+  "proximo_id_instrutor": 2,
+  "proximo_id_aula": 1
+}
